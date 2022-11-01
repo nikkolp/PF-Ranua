@@ -1,0 +1,704 @@
+@charset "UTF-8";
+
+.imagenIndex {
+    margin: 30px;
+
+}
+header,
+.quienesSomos__contenedor,
+.misionHijo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.mainIndex,
+.mainServicios {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mainGaleria {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.footer {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.fa-linkedin {
+    color: #0e76a8;
+}
+
+.fa-instagram {
+    color: #D872B5;
+}
+
+.fa-twitter {
+    color: #00acee;
+}
+
+.fa-facebook {
+    color: #3b5998;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Noto Sans", sans-serif;
+}
+
+header {
+    min-height: 20vh;
+    background: #000000;
+
+}
+
+header img {
+    width: 20vh;
+    margin-left: 20px;
+}
+
+header ul {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+}
+
+.linkActivo {
+    font-weight: bold;
+    border: 2px solid #9e9b9b;
+    background-color: #eceaeb;
+    color: #000000;
+    border-radius: 20px;
+    padding: 5px 40px 5px 40px;
+}
+
+.footer {
+    background: #000000;
+    height: 15vh;
+    flex-direction: column;
+    color: white;
+}
+
+.footer .socialIcons i {
+    margin: 10px 20px;
+    padding: 7px;
+    border-radius: 50%;
+    background-color: white;
+}
+
+/* Logo de Whatsapp */
+.fa-whatsapp {
+    position: fixed;
+    bottom: 5%;
+    right: 1%;
+    color: white;
+    font-size: 3rem;
+    background-color: #3ec34f;
+    padding: 0.6rem;
+    border-radius: 50%;
+}
+
+.noSeleccionado {
+    transition: 0.4s;
+    position: relative;
+}
+
+.noSeleccionado:hover {
+    color: #a8a8a8;
+}
+
+.noSeleccionado::after {
+    content: "";
+    background-color: #505050;
+    width: 100%;
+    height: 3px;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    transform: scaleX(0);
+    transform-origin: right;
+    transition: transform 0.5s;
+}
+
+.noSeleccionado:hover::after {
+    transform-origin: left;
+    transform: scaleX(1);
+}
+
+/* Responsive del botón hamburguesa, se pisa bootstrap */
+@media (max-width: 992px) {
+    .navbar-nav {
+        background-color: #808080;
+        border: 1px solid #d4d4d4;
+
+    }
+}
+
+input,
+label,
+textarea {
+    display: block;
+    width: 100%;
+    height: 40px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+#comentarios__adicionales {
+    height: 200px;
+}
+
+.btm {
+    border: 2px solid #6b6b6b;
+    border-radius: 20px;
+    padding: 5px 20px 5px 20px;
+    margin: 0 30px 20px 0;
+    box-shadow: 2px 2px 10px -1px;
+    width: 100px;
+    text-align: center;
+    display: inline;
+    background-color: #cccccc;
+    font-size: 1.1rem;
+}
+
+.btm a {
+    color: #8f8f8f;
+}
+
+h1,
+h2,
+h3 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    color: #a0a0a0;
+    text-align: center;
+}
+
+h1 {
+    font-size: 4rem;
+    margin: 40px;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+a {
+    text-decoration: none;
+    color: #c7c7c7;
+}
+
+a:hover {
+    color: #6d6d6d;
+}
+
+li {
+    list-style: none;
+    margin: 20px;
+    font-size: 1.2rem;
+}
+
+iframe {
+    width: 70%;
+    height: 280px;
+}
+
+img {
+    width: 100%;
+}
+
+.cuadroSombreado {
+    box-shadow: 5px 5px 15px;
+    border: 2px solid #6d6d6d;
+    border-radius: 15px;
+}
+
+main {
+    min-height: 65vh;
+}
+
+@media (max-width: 1000px) {
+
+    /* Estilos generales */
+    h1 {
+        font-size: 2rem;
+    }
+
+    h2 {
+        font-size: 1.3rem;
+    }
+}
+
+.barraDeContenido {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    background-image: url(../images/te_en_altura-1.jpg);
+    background-size: cover;
+    background-position-y: 800px;
+    height: 600px;
+    width: 100%;
+    padding-right: 50px;
+}
+
+.barraDeContenido h1 {
+    font-size: 2.5rem;
+    color: white;
+    margin: 40px;
+    text-shadow: 2px 0px 0px black, 0px 1px 0px black, -1px 0px 0px black,
+        0px -1px 0px black;
+}
+
+.barraDeContenido p {
+    color: white;
+    width: 50%;
+    padding: 20px;
+    text-align: justify;
+    position: relative;
+    top: -30px;
+}
+
+.botonContacto {
+    border: 2px solid #6d6d6d;
+    border-radius: 20px;
+    padding: 5px 20px 5px 20px;
+    margin: 0 30px 20px 0;
+    box-shadow: 2px 2px 10px -1px;
+    width: 180px;
+    text-align: center;
+    display: inline;
+    background-color: #dddddd;
+    font-size: 1.1rem;
+}
+
+.botonContacto a {
+    color: #6d6d6d;
+}
+
+.botonContacto:hover {
+    transform: scale(1.2);
+    transition: .4s;
+}
+
+.tarjetaPadre {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 70px 0 70px 0;
+}
+
+.tarjetaHija {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 25%;
+    text-align: center;
+    padding: 30px;
+    height: 600px;
+}
+
+.tarjetaHija i {
+    font-size: 2.5rem;
+    color: #6e293b;
+}
+
+.tarjetaHija p {
+    text-align: justify;
+}
+
+.tarjetaHija:hover {
+    transform: scale(1.2);
+}
+
+.mainIndex img {
+    width: 70%;
+    margin: 60px;
+}
+
+@media (max-width: 1000px) {
+
+    /* Página principal */
+    header img {
+        width: 15vw;
+    }
+
+    li {
+        margin: 10px;
+        font-size: 1rem;
+    }
+
+    .barraDeContenido h1 {
+        font-size: 5vw;
+    }
+
+    .barraDeContenido p {
+        padding: 10px;
+        font-size: 0.7rem;
+        width: 40%;
+        line-height: 12px;
+        background-color: rgba(255, 255, 255, 0.5);
+    }
+
+    .botonContacto {
+        display: none;
+    }
+
+    .barraDeContenido {
+        height: 360px;
+    }
+
+    .tarjetaHija {
+        height: 400px;
+        padding: 2%;
+    }
+
+    .tarjetaHija p {
+        font-size: 0.7rem;
+    }
+
+    .tarjetaHija i {
+        font-size: 1.6rem;
+    }
+}
+
+@media (max-width: 768px) {
+
+    /* Inicio */
+    .barraDeContenido {
+        padding-right: 0px;
+        background-size: cover;
+    }
+
+    .barraDeContenido p {
+        display: none;
+    }
+
+    .tarjetaPadre {
+        flex-direction: column;
+        padding: 40px;
+        margin: 0px;
+    }
+
+    .tarjetaHija {
+        width: 100%;
+        height: auto;
+        margin: 20px 0px 20px 0px;
+        padding: 15px;
+    }
+
+    .tarjetaHija i {
+        margin: 20px auto;
+    }
+
+    .tarjetaHija h2 {
+        margin: 10px auto 30px auto;
+    }
+
+    .mainIndex img {
+        width: 60%;
+    }
+}
+
+.contenedorContacto {
+    display: flex;
+    background-image: url(../images/4907157.jpg);
+    background-size: cover;
+    height: 800px;
+}
+
+.contenedorFormulario {
+    color: #000000;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin: 30px;
+    width: 40%;
+    font-size: 1.5rem;
+}
+
+.contenedorDatos {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    color: black;
+}
+
+.contenedorDatos p {
+    text-align: center;
+}
+
+.contenedorDatos h1,
+.contenedorDatos h2 {
+    color: #000000;
+}
+
+.googleMap {
+    border-radius: 3px;
+}
+
+form {
+    justify-content: center;
+}
+
+@media (max-width: 1000px) {
+    iframe.googleMap {
+        height: 160px;
+    }
+
+    label {
+        font-size: 1.1rem;
+    }
+}
+
+@media (max-width: 800px) {
+    .contenedorContacto {
+        flex-direction: column-reverse;
+        align-items: center;
+        height: auto;
+        width: 100%;
+        padding: 20px;
+    }
+
+    .contenedorFormulario {
+        width: 100%;
+        padding: 20px;
+    }
+
+    .contenedorDatos {
+        width: 100%;
+        padding: 20px;
+    }
+
+    .contenedorDatos h1 {
+        margin: 20px auto;
+    }
+
+    .contenedorDatos p {
+        margin: 20px auto;
+    }
+}
+
+.contenedorPrincipal {
+    display: flex;
+    justify-content: space-around;
+    margin: 80px 0px 80px 0px;
+}
+
+.quienesSomos__contenedor {
+    flex-direction: column;
+    width: 30%;
+    padding: 15px;
+}
+
+.quienesSomos__contenedor p {
+    text-align: justify;
+    margin: 5%;
+}
+
+.mision__contenedor {
+    width: 60%;
+}
+
+.mision__contenedor p {
+    width: 60%;
+    text-align: justify;
+    padding: 30px 25px 20px 10px;
+}
+
+.misionHijo img {
+    width: 20vw;
+    margin: 5%;
+    border-radius: 16px;
+    box-shadow: 6px 6px 16px;
+}
+
+.logoSereno {
+    width: 40%;
+}
+
+@media (max-width: 1000px) {
+    .contenedorPrincipal {
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+        margin: 0px;
+    }
+
+    .logoSereno {
+        width: 20%;
+    }
+
+    .quienesSomos__contenedor,
+    .mision__contenedor {
+        width: 90%;
+        margin: 40px;
+    }
+
+    .misionHijo {
+        flex-direction: column;
+    }
+
+    .mision__contenedor {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        padding: 50px 0px 50px 0px;
+    }
+
+    .mision__contenedor p {
+        width: 90%;
+        padding: 20px;
+    }
+}
+
+@media (max-width: 500px) {
+    .misionHijo img {
+        display: none;
+    }
+
+    .quienesSomos__contenedor {
+        min-height: 400px;
+    }
+
+    .mision__contenedor {
+        height: auto;
+    }
+}
+
+.grilla {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 350px 350px;
+    align-items: center;
+    justify-items: stretch;
+    height: auto;
+    margin-bottom: 80px;
+}
+
+.hijo__grilla {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+}
+
+.hijo__grilla h3 {
+    margin: 30px;
+}
+
+@media (max-width: 1000px) {
+    .grilla {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    iframe {
+        width: 90%;
+    }
+}
+
+@media (max-width: 660px) {
+    .grilla {
+        grid-template-columns: 100%;
+    }
+}
+
+.contenedorServicios {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 60px 20px 60px 20px;
+}
+
+.tarjetaServicios {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-align: justify;
+    padding: 30px;
+    width: 423px;
+    height: 423px;
+    box-shadow: 12px 10px 24px -7px rgba(0, 0, 0, 0.75);
+}
+
+.tarjetaServicios:hover {
+    box-shadow: 7px 10px 24px 20px rgba(0, 0, 0, 0.75);
+    border-radius: 5px;
+    transition: 1s;
+}
+
+.parrafoLeyenda {
+    text-align: center;
+    width: 70%;
+    font-size: .9rem;
+    text-align: center;
+    margin: 50px auto;
+}
+
+#carouselExampleIndicators {
+    width: 60%;
+    margin: 20px 0 80px 0;
+}
+
+@media (max-width: 1130px) {
+    .tarjetaServicios {
+        width: 50%;
+        padding: 20px;
+        box-shadow: 12px 10px 24px -7px rgba(0, 0, 0, 0.75);
+    }
+
+    .parrafoLeyenda {
+        margin: 10px auto;
+    }
+
+    .contenedorServicios {
+        margin: 30px 20px 60px 20px;
+    }
+}
+
+@media (max-width: 780px) {
+    .contenedorServicios {
+        flex-direction: column;
+    }
+
+    .tarjetaServicios {
+        width: 100%;
+        height: auto;
+        margin-top: 30px;
+    }
+
+    .parrafoLeyenda {
+        font-size: .8rem;
+    }
+}
+
+@media (max-width: 1000px) {
+    li {
+        font-size: 2vw;
+    }
+
+    .linkActivo {
+        font-weight: bold;
+        text-transform: uppercase;
+        border: inherit;
+        background-color: inherit;
+        color: #94868a;
+        border-radius: inherit;
+        padding: inherit;
+    }
+}

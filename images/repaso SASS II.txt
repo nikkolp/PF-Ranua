@@ -1,0 +1,803 @@
+01:03:12	Emanuel Riccardi:	x3
+01:03:21	Gaston Jongewaard de Boer:	holaaaaoeoaeo
+01:03:25	Gonzalo Rojas:	ola profe
+01:03:25	Leonel Eguren:	buenas
+01:03:29	Andrea Barreiro:	hola
+01:03:34	Federico Bozzano:	Lord Gaby seven blessings
+01:03:38	Felipe Murga:	Somos poquitos hoy
+01:03:41	Matias Barbalase:	aloha
+01:03:42	Lucas Palacios:	bueenas
+01:03:48	melina sandoval:	holaa
+01:03:50	Federico Gomez Beret:	bien bien
+01:03:51	Gabriel Frattesi:	Todo bien!
+01:03:53	Luis Pitre:	Gabrielitooo, mi proyecto desde el 15 esperando ser reprobado.
+01:03:55	Federico Bozzano:	y apartir de hoy seremos menos (?) JAJA
+01:03:56	Felipe Murga:	No se bajen del barco muchachos
+01:03:58	Lucas Palacios:	arreglaste los auriculares?
+01:04:09	Luis Pitre:	ok
+01:04:12	Matias Barbalase:	yo desde la sem pasada q espero mi devolución jaajaj
+01:04:19	Joaquin Gourriet:	la gente cae tarde al baile
+01:04:24	Gabriel Frattesi:	Siii
+01:04:25	Felipe Murga:	No pudeeee
+01:04:25	Matias Barbalase:	yo hoy adelante un poco
+01:04:26	Federico Bozzano:	transcribi todo papua!
+01:04:29	Leonel Eguren:	luchando con sass
+01:04:32	Gabriel Frattesi:	Divino Sass
+01:04:33	Luciano Ippolito:	yo ya lo hice todo x suerte
+01:04:33	Edson Pareja:	me perdi el after :(
+01:04:34	Matias Barbalase:	de apoco voy anidando
+01:04:35	Gabriel Frattesi:	Por ahora
+01:04:36	Gabriel Frattesi:	jajajaj
+01:04:39	Lucas Palacios:	Estoy ahi viendo, pero estoy hasta el cuello de cosas
+01:04:41	Leonel Eguren:	lei el apunte y casi no entendí nada
+01:04:44	Leonel Eguren:	le tengo fe a la clase
+01:05:02	Lucas Rodriguez Alvarez:	a no llegamos a 100, en bolas
+01:05:11	Nataniel Kreimer:	Me quedo la duda. Ahora que esta todo compilado en el nuevo estilos.css... hay que importarlo o linkearlo a los html?
+01:06:42	Luciano Ippolito:	lo reemplazas en cada html por styles.css viejo
+01:06:54	Erick Osuna Saavedra:	riesgo
+01:06:58	Matias Barbalase:	y en caso de desaprobar una entrega gabi? teniendo la beca
+01:07:30	[Tutor] Manuel Sanchez:	Entiendo que si se desaprueba podes re entregar
+01:07:37	[Tutor] Manuel Sanchez:	pero solo una vez
+01:07:41	Edson Pareja:	creo te cobran el curso completo, sacando el descuento de la beca
+01:08:56	Catriel Drago:	el ultimo esfuercito
+01:09:00	Felipe Murga:	toy a 1 punto del top 10 me quiero matar
+01:09:14	Gabriel Frattesi:	No Gabi, perfecto
+01:09:20	Matias Barbalase:	a darle con paciencia
+01:09:25	Edson Pareja:	gabi vas a dar java?
+01:09:27	Lucas Palacios:	Estoy agotado ajjsja
+01:09:34	Joaquin Gourriet:	Profe me quedo la duda si aplicamos @media querie en SASS
+01:09:36	Erick Osuna Saavedra:	Nop, vamos a trabajar con SASSSSSS
+01:09:38	Erick Osuna Saavedra:	:D
+01:09:49	Erick Osuna Saavedra:	No Joaquin
+01:09:54	Federico Bozzano:	gaby tengo una pequeña duda de sass sobre como linkear los scss a mis pages. la puedo hacer ahora o espero al final de la clase?
+01:09:55	Matias Barbalase:	HTML? q es
+01:09:56	Lucas Palacios:	Nonono, no usted, me gusta todo esto. Es mas con todas las cosas en las que me meti que me tienen todo el dia ocupado
+01:10:02	Joaquin Gourriet:	Gracias profe erick :)
+01:10:05	Santiago Amarilla:	gabi enseñas java, react java y backend? te vamos a extrañar!!
+01:10:20	Erick Osuna Saavedra:	Jajajaja sigue burlándote!
+01:10:21	Erick Osuna Saavedra:	xD
+01:10:30	Joaquin Gourriet:	jamas!
+01:10:35	[Tutor] Manuel Sanchez:	Fede, losa rchivos .scss no se linkean al HTML
+01:10:37	conrado veloz:	😁
+01:11:04	Federico Bozzano:	claro, eso quería saber. a las pages que no son el index. les tengo que agregar el link del estilos.css y listo no?
+01:11:23	[Tutor] Matias Larsson:	Si Fede
+01:11:30	Federico Bozzano:	cha'gracias!
+01:11:32	Joaquin Gourriet:	si y borrar el Style.css o comentarlo
+01:11:37	[Tutor] Manuel Sanchez:	a todas las paginas que se vean afectadas por el CSS que escribiste tenes que linkearlo
+01:12:06	Federico Bozzano:	a todas jajaj . gracias
+01:14:26	Matias Barbalase:	f
+01:14:30	Joaquin Gourriet:	es imposible xD
+01:14:44	Felipe Murga:	ami me había quedado una duda, en un nuevo proyecto, es necesario empezar con ccs? o podemos arrancar con sass directamente
+01:14:56	conrado veloz:	el profe se va poner modo flash
+01:14:56	[Tutor] Matias Larsson:	Arrancas con sass feli
+01:14:58	Catriel Drago:	sass
+01:14:59	Santiago Amarilla:	me puedo largar a llorar ya? :)  bueno gabi te prestamos atencion!
+01:15:09	Felipe Murga:	Listo gracias
+01:16:13	conrado veloz:	the name
+01:16:15	Edson Pareja:	como un id
+01:16:29	conrado veloz:	is jesus
+01:17:44	conrado veloz:	woww
+01:17:44	Joaquin Gourriet:	1 por 1 🤯
+01:17:52	conrado veloz:	😵‍💫
+01:18:03	Nataniel Kreimer:	no hay un find and replace como en word?
+01:18:31	Felipe Murga:	ido
+01:18:32	Joaquin Gourriet:	si
+01:18:32	Catriel Drago:	si
+01:18:32	conrado veloz:	si
+01:18:33	Matias Barbalase:	sii
+01:18:33	Federico Bozzano:	seria esta variable nata jeje
+01:18:34	Andrea Barreiro:	si
+01:18:34	Gabriel Frattesi:	si
+01:18:34	Edson Pareja:	si
+01:18:38	Edson Pareja:	si
+01:18:40	Joaquin Gourriet:	es Genial
+01:18:45	Gaston Jongewaard de Boer:	una locura
+01:18:47	conrado veloz:	el mojor profe
+01:18:50	Joaquin Gourriet:	demencial
+01:18:54	conrado veloz:	mejor
+01:19:11	Felipe Murga:	duda, porque no vimos sass directamente en vez de ccs
+01:19:18	Edson Pareja:	jajaja
+01:19:22	Joaquin Gourriet:	no lo entenderias
+01:19:30	[Tutor] Manuel Sanchez:	Porque siempre hay que aprender las bases
+01:19:35	[Tutor] Matias Larsson:	Para que entiendas Feli que hay detras de sass
+01:19:38	conrado veloz:	no lo entendería mariyein
+01:19:42	Federico Gomez Beret:	primero te enseñan a sumar y restar y después te dan la calculadora
+01:19:44	Federico Gomez Beret:	basicamente
+01:19:44	Federico Gomez Beret:	jaja
+01:19:48	Felipe Murga:	Claro jaja
+01:19:55	Felipe Murga:	como con boostrap
+01:19:59	[Tutor] Manuel Sanchez:	es como aprender primer react y después JS
+01:20:01	Edson Pareja:	una birra para fede
+01:20:07	Freddy Martinez Osteicoechea:	si se tiene el mismo color con varios tonos de transparencia se crea varias variables con cada uno ???
+01:20:12	Catriel Drago:	ok
+01:20:16	Freddy Martinez Osteicoechea:	josha gracias
+01:20:26	Joaquin Gourriet:	jolla
+01:20:27	Luis Pitre:	Gabriel, hace tiempo aprendí que, las variables las declarba dentro de una clase llamada :root y cada variable se aplicada con dos guiones ejemplo, --colorprincipal , ¿Cuál es la diferencia a como lo haces?
+01:20:48	Freddy Martinez Osteicoechea:	IMPORT
+01:20:49	Leonel Eguren:	el run
+01:20:50	Matias Barbalase:	npm run
+01:20:50	Andrea Barreiro:	wacht
+01:20:51	Federico Bozzano:	run watch xD
+01:20:51	Gabriel Frattesi:	npm
+01:20:53	Edson Pareja:	import
+01:20:55	Erick Osuna Saavedra:	npm run watch
+01:20:57	Gabriel Frattesi:	robotito
+01:21:02	Federico Bozzano:	roboto
+01:21:09	[Tutor] Manuel Sanchez:	Luis, cuando usas el root, es CSS vanilla, y SASS utiliza otro tipo de variables
+01:21:11	Joaquin Gourriet:	antentos
+01:21:20	Catriel Drago:	:O
+01:21:33	Federico Bozzano:	nice
+01:22:07	Edson Pareja:	a partir de ahí funciona se guarda solo?
+01:22:21	Gabriel Frattesi:	trabaja cuando vos guardas algún cambio
+01:22:22	Catriel Drago:	cuando haces control s
+01:22:39	Edson Pareja:	gracias
+01:23:00	Gaston Jongewaard de Boer:	hmm
+01:23:21	Joaquin Gourriet:	1 componente por div 😅
+01:23:47	Federico Bozzano:	🤣😅
+01:25:38	Erick Osuna Saavedra:	:O
+01:25:43	Erick Osuna Saavedra:	Como las funciones!
+01:26:08	[Tutor] Manuel Sanchez:	No Erick, una función es una accion
+01:26:18	Erick Osuna Saavedra:	Ya estoy viendo
+01:26:22	[Tutor] Manuel Sanchez:	esto es una estructura de datos
+01:26:28	Joaquin Gourriet:	bluelemon
+01:26:28	Felipe Murga:	gold
+01:26:50	Jonathan Medina:	Se puede trabajar una lista pero con RGB?
+01:27:05	Gaston Jongewaard de Boer:	interesante
+01:27:10	Gaston Jongewaard de Boer:	o sea, te armas la paleta
+01:27:16	[Tutor] Manuel Sanchez:	Si jonathan
+01:27:23	Jonathan Medina:	Gracias manu <3
+01:27:28	[Tutor] Manuel Sanchez:	Hexa, RGB, rgba, etc
+01:27:43	Martín Alba:	¿Seria algo como un array?
+01:27:59	[Tutor] Manuel Sanchez:	Seria lo mas parecido si
+01:28:17	Felipe Murga:	y en el Font size tienen que ser todos de la misma medida? osea todos en px o todos en rem etc
+01:28:40	[Tutor] Manuel Sanchez:	Se pueden mezclar las medidas Feli
+01:28:51	Felipe Murga:	Joya gracias
+01:28:54	Catriel Drago:	si
+01:28:57	Joaquin Gourriet:	algo
+01:28:58	Andrea Barreiro:	yes
+01:28:58	Gabriel Frattesi:	si
+01:29:00	Erick Osuna Saavedra:	Si
+01:29:02	Emanuel Riccardi:	sii
+01:29:08	Federico Gomez Beret:	yes
+01:30:47	Andrea Barreiro:	ntn?
+01:30:49	Gabriel Frattesi:	no es nth?
+01:31:09	Jarod Calderon:	ntn?
+01:31:10	Matias Barbalase:	ntn o nth
+01:31:11	Matias Barbalase:	?
+01:31:14	Leonel Eguren:	?
+01:31:16	Erick Osuna Saavedra:	Gaby, NTH
+01:31:17	Federico Bozzano:	sip, le chingo el la redacción jeje
+01:31:26	[Tutor] Manuel Sanchez:	nth gabi
+01:31:29	[Tutor] Manuel Sanchez:	linea 32
+01:31:30	Leonel Eguren:	la h
+01:31:30	Franco Marini:	nth
+01:31:30	Adrian Defazio:	ntn esta mal
+01:31:31	Gaston Jongewaard de Boer:	claro
+01:31:32	Facundo Gil:	nth
+01:31:33	Matias Barbalase:	nth gabi
+01:31:34	Adrian Defazio:	va NTH
+01:31:34	Gaston Jongewaard de Boer:	te trajo la lista
+01:31:35	Matias Barbalase:	reprobado
+01:31:35	Franco Marini:	dejaste ntn
+01:31:35	Gabriel Frattesi:	nth
+01:31:46	Catriel Drago:	xD
+01:32:00	Luciano Diotallevi:	qué copado
+01:32:08	Franco Escalante:	demos las clases nosotros
+01:32:13	Leonel Eguren:	esto automáticamente pisa el css?
+01:32:19	Federico Bozzano:	eso se acaba de aplicar a todos los h1 del documento.. no entendí jeje
+01:32:23	[Tutor] Manuel Sanchez:	Por ejemplo para guardar la paleta de colores de tu sitio web, es muy comodo
+01:32:26	Luciano Diotallevi:	parece que lo modifica, no lo pisa xd
+01:32:38	[Tutor] Manuel Sanchez:	Fede, si, a todos los h1
+01:32:45	[Tutor] Manuel Sanchez:	por la etiqueta que usa
+01:32:50	Federico Bozzano:	O_O
+01:32:51	Luciano Diotallevi:	ajajajaj
+01:32:58	Ayelen Salvia:	pero antes en la clase pasada lo llamaste en el HTML, o estoy equivocada?
+01:33:05	Franco Marini:	para los colores me parece muy comodo, pero para las fontsize nose si tanto, aunque gabi lo hizo como ejemplo
+01:33:15	Catriel Drago:	si
+01:33:16	Federico Gomez Beret:	si
+01:33:16	Felipe Murga:	si
+01:33:18	Felipe Murga:	calc
+01:33:19	Catriel Drago:	en la parte del hero
+01:33:24	Joaquin Gourriet:	si
+01:33:28	Joaquin Gourriet:	vh -
+01:33:32	Erick Osuna Saavedra:	Para Font se puede usar es para solo tener 4 tamaños y no salirse de eso
+01:33:42	[Tutor] Manuel Sanchez:	Franco, para las mediaqueries esta bueno, para agrupar las font-size de cada media
+01:33:52	Joaquin Gourriet:	si
+01:33:57	[Tutor] Manuel Sanchez:	A que cosa llamaba Aye?
+01:34:26	Franco Marini:	ah claro Manu
+01:34:56	Ayelen Salvia:	al color por ejemplo  del span  y puso color principal
+01:35:12	Ayelen Salvia:	pero lo modifico en el html
+01:35:23	Catriel Drago:	guat
+01:35:23	[Tutor] Manuel Sanchez:	Hay una infinidad de usos para estas cosas! Si uno se pone creativo, puede ayudar mucho
+01:35:38	Erick Osuna Saavedra:	Está genial
+01:35:39	[Tutor] Manuel Sanchez:	Se puede ahcer Aye, no es lo recomendable, pero se puede
+01:35:57	Ayelen Salvia:	ahhhh, lo recomendable es como hizo ahora?
+01:36:01	Federico Bozzano:	no se si es que no entiendo o que no lo quiero aceptar. A todas las imágenes de nuestro sitio se le cambiaria el tamaño utilizando la variable?
+01:36:15	Gaston Jongewaard de Boer:	hay que usarlo sabiamente
+01:36:15	Federico Bozzano:	aunque la img este dentro de una clase?
+01:36:16	Gaston Jongewaard de Boer:	:3
+01:36:41	[Tutor] Manuel Sanchez:	Claro fede
+01:36:42	Catriel Drago:	si :c
+01:36:54	Federico Bozzano:	que fuerte jaja gracias
+01:37:06	Catriel Drago:	para nuestro proyecto si o si hay que utilizar esto ?
+01:37:07	Joaquin Gourriet:	si llamo a varaiables en header
+01:37:11	[Tutor] Manuel Sanchez:	depende del lugar en donde estes igual, recorda que sigue siendo cascada
+01:37:13	Catriel Drago:	osea para todo?
+01:37:16	Freddy Martinez Osteicoechea:	si
+01:37:32	[Tutor] Manuel Sanchez:	Catriel, SASS si o si, estas cosas no se si todas
+01:37:39	Freddy Martinez Osteicoechea:	y lo que se viene ….
+01:38:10	Catriel Drago:	por ejemplo quiero hacer una lista de colores unicamente eso seria valido ?
+01:38:18	Joaquin Gourriet:	x2
+01:38:19	Federico Bozzano:	si esclarecio bocha esa pregunta
+01:38:41	[Tutor] Manuel Sanchez:	ya vamos a ver la rubricas para la proxmia entrega
+01:38:45	[Tutor] Manuel Sanchez:	paciencia padawan
+01:38:45	Edson Pareja:	modifica todas a todas las img también?
+01:38:49	Gabriel Frattesi:	en el parcial
+01:38:50	Andrea Barreiro:	estilos.scss
+01:38:53	Gabriel Frattesi:	que lo necesite
+01:38:53	Luis Pitre:	estilos.scss
+01:38:53	Joaquin Gourriet:	en donde lo vas a utilizar?
+01:38:53	Edson Pareja:	estilos
+01:39:01	Andrea Barreiro:	ah ok
+01:39:08	Matias Barbalase:	main puede ser?
+01:39:09	Matias Barbalase:	también?
+01:39:13	Catriel Drago:	se
+01:39:23	Matias Barbalase:	oki
+01:39:36	Erick Osuna Saavedra:	Y por qué no importar en todos los partials=
+01:39:37	Erick Osuna Saavedra:	???
+01:40:09	Joaquin Gourriet:	y porque si?
+01:40:22	Luis Pitre:	Hizo la pregunta correcta , bien ahi.
+01:40:25	Erick Osuna Saavedra:	Por si acaso
+01:40:27	Erick Osuna Saavedra:	Jajaja
+01:40:31	Nataniel Kreimer:	hay que  importar el partial variables a los partials que usan sus elementos
+01:40:32	Joaquin Gourriet:	jajaj
+01:40:42	Gabriel Frattesi:	No cuesta nada jaja
+01:41:06	Erick Osuna Saavedra:	Es una línea de código más en cada partial
+01:41:18	Nataniel Kreimer:	algo de esto atenta contra la velocidad de carga de las paginas?
+01:41:50	Gaston Jongewaard de Boer:	🤔
+01:41:57	Catriel Drago:	el mapa de dora
+01:42:01	Matias Barbalase:	nop
+01:42:01	Luis Pitre:	no
+01:42:02	Lucas Alejandro Peer:	si
+01:42:03	Catriel Drago:	si
+01:42:05	Luciano Diotallevi:	todo perfecto
+01:42:05	Federico Bozzano:	soy el mapa ♪
+01:42:05	Erick Osuna Saavedra:	Si, escuchamos
+01:42:05	Edson Pareja:	si
+01:42:05	Leonel Eguren:	un poco
+01:42:06	Andrea Barreiro:	si
+01:42:06	Gabriel Frattesi:	si
+01:42:06	Martin Lamacchia:	si
+01:42:07	Luis Pitre:	si te escuchamos
+01:42:07	Joaquin Gourriet:	se escucha bien
+01:42:09	Catriel Drago:	se escucha bien y se ve bien
+01:42:14	Lucas Palacios:	se paro 2 seg
+01:42:15	Erick Osuna Saavedra:	Igual
+01:42:16	conrado veloz:	si se ewscucha
+01:42:18	Felipe Murga:	ta todo bien
+01:42:18	Edson Pareja:	si
+01:43:12	Erick Osuna Saavedra:	POO
+01:45:11	Gaston Jongewaard de Boer:	json ¿?
+01:45:11	Gaston Jongewaard de Boer:	xD
+01:45:19	Gaston Jongewaard de Boer:	diccionario ¿?
+01:46:50	Federico Bozzano:	guarda que te quedo "borde" en vez de "border"
+01:47:15	Federico Bozzano:	oh
+01:47:19	Federico Bozzano:	jajaja
+01:47:39	Federico Bozzano:	Perfecto
+01:47:39	Franco Marini:	pepito tiene asistencia perfecta en el curso
+01:47:50	Gabriel Frattesi:	A petra la extrañabamos
+01:50:11	Sofia Piemontesi:	🤯
+01:50:22	Jarod Calderon:	y si quiero aplicarle todas las propiedades? solo ponemos el nombre del mapa?
+01:50:27	Catriel Drago:	si
+01:50:55	Jarod Calderon:	y hay forma de hacer eso que pregunté?
+01:51:08	Jarod Calderon:	espectacular
+01:51:10	Jarod Calderon:	gracias
+01:51:20	Federico Gomez Beret:	bien
+01:51:21	Matias Barbalase:	recalculando
+01:51:23	Gabriel Frattesi:	bien
+01:51:28	Erick Osuna Saavedra:	Todo bien
+01:51:29	Felipe Murga:	me perdi un poquito porq el wifi me va muy mal
+01:51:33	Edson Pareja:	se los llama en la misma pagina de variables?
+01:51:35	Catriel Drago:	verydificul
+01:51:43	Lucas Palacios:	vamo bien, ando perdido porque vieron mucho en el after class
+01:51:47	Andrea Barreiro:	hay pensarlo muy bien esto para usarlo
+01:51:55	Gaston Jongewaard de Boer:	está bueno, si tenés mil botones, les cambiás el diseño desde la variable xd
+01:52:14	Joaquin Gourriet:	es verdad gaston
+01:52:17	Edson Pareja:	ah listo gracias gabi
+01:52:18	Gabriel Frattesi:	En el mapa puedo poner una variable de color en lugar de un color? por ejemplo en lugar de tomato un $color-secundario
+01:52:23	Edson Pareja:	me gusta scss
+01:52:24	Edson Pareja:	jajaj
+01:52:54	Gabriel Frattesi:	ah claro
+01:52:55	Gabriel Frattesi:	Jajaja
+01:53:13	David Echeverri:	el mapa acepta transittions y hover?
+01:53:50	Luciano Ippolito:	pienso que es mas facil hacerle una class a cada tipo de boton, en css que todo esto, no estoy seguro aun pero me parece mas complicado asi
+01:55:03	Joaquin Gourriet:	Creo que esto se tiene que pensar desde un inicio pensando en el proyecto
+01:55:13	Jarod Calderon:	esto es más profesional y práctico para cambios masivos
+01:55:28	[Tutor] Manuel Sanchez:	Por eso es tan importante hacer los wireframes y saber como se va a ver el proyecto
+01:55:39	Joaquin Gourriet:	claro manu
+01:56:14	Felipe Murga:	Ami no me quedo nada que ver el wireframe con lo que tengo ahora jaja
+01:56:17	Valentin Capello Ramil:	Una duda, nuestras modificaciones las debemos hacer directo desde nuestros archivos scss una vez que tengamos todo el css transcripto?
+01:56:53	Felipe Murga:	se lo va a extrañar al pana ccs
+01:57:00	Joaquin Gourriet:	hay que saber soltar 😅
+01:57:02	Nataniel Kreimer:	Cuando le mostras todo un laburo al cliente para que lo apruebe y te pido un cambio de colores, lo resolves en dos minutos! No le gusta una sombrita? la sacas en dos patadas! Eso es Sass
+01:57:03	Valentin Capello Ramil:	genial
+01:57:20	Joaquin Gourriet:	SASS
+01:57:36	Franco Escalante:	y aca es donde vamos a amar hacer Landing pages super fáciles
+01:58:43	[Tutor] Manuel Sanchez:	Esto seguramente les quite mucho tiempo de armar CSS, y mientras mas practica metan, mas rápido lo van a hacer y mas rápido van a poder proyectar en donde van a necesitar usar cada cosa
+01:59:58	[Tutor] Manuel Sanchez:	Muchas veces uno tiene que sentarse a repasar cosas que no vio hace un tiempo, es como cualquier profesión, ya sea medico, psicólogo, o lo que sea
+02:00:01	Edson Pareja:	si seguimos
+02:00:15	Joaquin Gourriet:	😶‍🌫️
+02:00:21	Felipe Murga:	Suban el volumen
+02:00:26	Catriel Drago:	xD
+02:00:28	Jarod Calderon:	El semidios imbatible
+02:00:30	Joaquin Gourriet:	Ponganse de pie
+02:01:00	Federico Bozzano:	🙌🏾
+02:01:20	Freddy Martinez Osteicoechea:	un segundo puede repasar lo del  .boton ?
+02:01:39	Facundo Luna:	front end mentor
+02:02:04	Jarod Calderon:	El Coloso
+02:02:11	Federico Bozzano:	de rodas jaja
+02:02:12	Freddy Martinez Osteicoechea:	osea lo del map-get pls
+02:02:46	conrado veloz:	🤣
+02:03:06	conrado veloz:	no soy ningún semidios
+02:03:26	Freddy Martinez Osteicoechea:	AHHHH ya ya
+02:03:37	Freddy Martinez Osteicoechea:	si listo vi redundancia por eso la duda
+02:03:40	Matias Barbalase:	gabi vas a explicar como pasar las keyframes a SASS?
+02:03:49	Matias Barbalase:	🤓
+02:03:58	Federico Bozzano:	♥ brake
+02:04:04	Federico Bozzano:	si
+02:04:08	Joaquin Gourriet:	Profe, me perdi si paso las @media a sass
+02:04:08	Catriel Drago:	si
+02:04:09	Franco Escalante:	1 hs de breack
+02:04:10	[Tutor] Manuel Sanchez:	Mati, las keyframes se copian y pega, no tienen mucha diferencia
+02:04:10	Felipe Murga:	para refrescar, depaso reinicio el wifi pq me va fatal
+02:04:13	Lucas Palacios:	corriendo a preparar mate
+02:04:22	Joaquin Gourriet:	Profe, me perdi si paso las @media a sass
+02:04:22	Gabriel Frattesi:	Dale Gabi
+02:04:28	[Tutor] Matias Larsson:	Mis ausentes son:Jonathan PerroneLuciana SardellaLuciano González Marcos Tomas IrañetaMartin flores Milton LomagnoNorman Argueta Oscar Manuel Solís ChávezSebastian GomezTiziana Berenice ZariValentina Fiorillo
+02:04:32	Matias Barbalase:	oki manu graciasss
+02:04:32	Catriel Drago:	voy a reiniciar windows en mi cabeza
+02:05:13	[Tutor] Manuel Sanchez:	Mi lista de ausentes:Agustina IñiguezAmina SleimanAndrés DellacasaAriel MarchBruno Guzmán BarriCeleste ArrietaDelfina FontiErika MoralesFacundo LanaroFederico Russo
+02:05:19	conrado veloz:	profe
+02:05:40	conrado veloz:	por que me dicen semidios 🤔
+02:05:55	conrado veloz:	esa es mi duda
+02:06:00	[Tutor] Manuel Sanchez:	preguntales a tus compañeros  😂
+02:06:11	conrado veloz:	🤣
+02:06:11	Catriel Drago:	:/
+02:06:24	conrado veloz:	chicos por que soy su semidios
+02:07:11	Joaquin Gourriet:	Ultra instinto completo
+02:07:16	Bruno Guzman:	😂
+02:07:26	conrado veloz:	🤣
+02:08:05	[Profe] Gabriel López:	Viviste una gripe muy fuerte y un tornado la misma semana
+02:08:07	conrado veloz:	ante de dormir recen mi oración🤣
+02:08:09	[Profe] Gabriel López:	Y no faltaste
+02:08:11	[Profe] Gabriel López:	jajaja
+02:08:39	conrado veloz:	y en ese tiempo medio adnesia
+02:08:39	Joaquin Gourriet:	Vio la clase desde el centro del huracan
+02:08:42	Luciano Ippolito:	sos una celebrity del grupo, sera por eso. El otro dia faltaste y hubo un gran vacío.
+02:09:29	conrado veloz:	no volveré a fallar les
+02:09:38	Joaquin Gourriet:	Bue  no
+02:09:39	conrado veloz:	👍
+02:10:11	Luciano Ippolito:	pudiste hacer la entrega Conrad?
+02:10:12	conrado veloz:	cuando estaba enfermo me pasaba que se me olvidaban las cosas
+02:10:51	Joaquin Gourriet:	a mi me pasa sin estar enfermo es cuestión de practicar 😅
+02:11:13	conrado veloz:	uf esa canción me gusta
+02:11:33	conrado veloz:	😊
+02:11:42	conrado veloz:	si luciano
+02:11:57	[Profe] Gabriel López:	Es lo mas esa canción
+02:12:03	conrado veloz:	me gusta esa música esa música es estilo epica
+02:12:14	[Profe] Gabriel López:	Cero conra
+02:12:23	[Profe] Gabriel López:	Coloco música epica y se me asustan
+02:12:30	conrado veloz:	no
+02:12:39	[Profe] Gabriel López:	Lo hice la otra vez y dijeron que se sentían en un ritual
+02:12:55	conrado veloz:	vieron el profe es un dios y yo un semidios
+02:12:56	Bruno Guzman:	jajaja
+02:13:09	[Profe] Gabriel López:	jajaja
+02:13:25	[Profe] Gabriel López:	Mis ausentes son:Jonathan PerroneLuciana SardellaLuciano González Marcos Tomas IrañetaMartin flores Milton LomagnoNorman Argueta Oscar Manuel Solís ChávezSebastian GomezTiziana Berenice ZariValentina Fiorillo
+02:13:35	conrado veloz:	dentro de poco haciendo a dios profe
+02:13:47	[Profe] Gabriel López:	Mi lista de ausentes:Agustina IñiguezAmina SleimanAndrés DellacasaAriel MarchBruno Guzmán BarriCeleste ArrietaDelfina FontiErika MoralesFacundo LanaroFederico Russo
+02:13:50	Joaquin Gourriet:	Profe vamos aplicar @media querie en SASS?
+02:13:56	Joaquin Gourriet:	me esta comiendo la cabeza eso
+02:13:56	conrado veloz:	y usted a dios supremo
+02:13:58	Bruno Guzman:	yo aca andoooo
+02:13:59	Joaquin Gourriet:	jaja perdon
+02:14:04	Amina Sleiman:	Profe esta presente
+02:14:08	Amina Sleiman:	con el nomnre de mi hermana
+02:14:10	Amina Sleiman:	:((((((
+02:14:12	Amina Sleiman:	qu hago
+02:14:20	Amina Sleiman:	la primera vez que me cuesi y no lo cambio
+02:14:35	Amina Sleiman:	okis gracias
+02:14:42	Joaquin Gourriet:	soy nomas profe
+02:14:43	Bruno Guzman:	No me pongan falta ☹️
+02:14:48	Joaquin Gourriet:	soy yo
+02:14:49	Joaquin Gourriet:	jajja
+02:15:00	conrado veloz:	me voy a casar
+02:15:05	Catriel Drago:	que paso
+02:15:05	[Tutor] Matias Larsson:	Amina Sleiman como es tu nombre?
+02:15:12	Catriel Drago:	escuche catriel ?
+02:15:16	Luciano Ippolito:	a mi no me andaban las tuve que anidar
+02:15:26	Valentina:	Buenas
+02:15:28	Uriel Traba:	Creo que el problema de todos, o al menos el mio es, donde ubicar las queries
+02:15:32	Valentina:	Se me había cortado el internet
+02:15:35	Freddy Martinez Osteicoechea:	otra veez
+02:15:36	Matias Barbalase:	que copie y pegue dice
+02:15:44	Valentina:	No llegué a ver la lista
+02:15:49	Valentina:	La podrían reenviar por favor?
+02:15:59	[Tutor] Manuel Sanchez:	Mi lista de ausentes:Agustina IñiguezAmina SleimanAndrés DellacasaAriel MarchBruno Guzmán BarriCeleste ArrietaDelfina FontiErika MoralesFacundo LanaroFederico Russo
+02:16:08	Valentina Fiorillo:	Valentina Fiorillo soy
+02:16:08	Joaquin Gourriet:	Gracias profe me estama comiendo el cerebro jajaj
+02:17:18	Valentina Fiorillo:	Genial, muchísimas gracias!
+02:18:10	conrado veloz:	valentina antes de entrar a la llamda revisa el estado de tu internet
+02:18:31	conrado veloz:	y cierra todo abierto que no uses
+02:18:38	Joaquin Gourriet:	😶‍🌫️
+02:18:46	Franco Marini:	consejos de dios
+02:18:52	Federico Bozzano:	🙌🏾
+02:19:09	Matias Barbalase:	🧐
+02:19:23	Federico Bozzano:	Font siz
+02:19:26	Edson Pareja:	display
+02:19:28	Matias Barbalase:	el width?
+02:19:30	Federico Bozzano:	ahh perdón
+02:19:30	Erick Osuna Saavedra:	display:flex
+02:19:34	Edson Pareja:	flex
+02:19:34	Erick Osuna Saavedra:	justify
+02:19:34	Catriel Drago:	grids
+02:19:36	Gabriel Frattesi:	jc al
+02:19:37	Edson Pareja:	grid
+02:19:37	Erick Osuna Saavedra:	aline
+02:19:38	Federico Bozzano:	flex flow
+02:19:43	Martín Alba:	flex-direction tambien
+02:19:56	Edson Pareja:	grd-colum
+02:22:07	Matias Barbalase:	obsesion con el tomato
+02:22:27	Gaston Jongewaard de Boer:	ohh
+02:23:05	Sofia Piemontesi:	por que los separa?
+02:23:12	Luis Pitre:	podrías usar Galeria , flex?
+02:23:20	Luis Pitre:	separándolos por una "coma" ?
+02:23:31	Erick Osuna Saavedra:	Porque el %flex no tiene los valore sde background y border
+02:23:33	Luciano Diotallevi:	uno esta con los colores y eso, el otro no ?
+02:23:36	Jarod Calderon:	porque unos son valores en específico y el otro un conjunto de valores?
+02:23:37	Joaquin Gourriet:	.galería{
+02:23:38	Fernando Gimenez:	por listas
+02:23:46	Matias Barbalase:	por que los valores son distintos?
+02:23:48	Leonel Eguren:	porque el extend es modificable
+02:24:12	Juan Guariste:	Al próximo contenedor lo agrupa con galería
+02:24:16	Joaquin Gourriet:	.galería{@extend %flex;}Se puede?
+02:24:36	Matias Barbalase:	ah esa duda tenia tambien
+02:24:38	Matias Barbalase:	gracias jajaja
+02:24:45	Santiago Amarilla:	si en otro momento haga align items y lo hace a lz iquierda
+02:24:55	Santiago Amarilla:	y luego lo hago a la derecha, como podria invocar ese extend?
+02:25:09	Gabriel Frattesi:	te agrupo las clases
+02:25:10	Catriel Drago:	ohhh
+02:25:11	Federico Bozzano:	OHHHHHHHHHHHHHHH
+02:25:22	Santiago Amarilla:	se entiende
+02:25:23	Gaston Jongewaard de Boer:	omfg
+02:25:25	Matias Barbalase:	claro te lo esta resumiendo a mas no poder
+02:25:25	Gabriel Frattesi:	Genial
+02:25:27	Federico Bozzano:	que beyo
+02:25:39	Gabriel Frattesi:	Sass Lover
+02:25:41	Catriel Drago:	copado
+02:25:42	Federico Bozzano:	ahorra líneas
+02:25:42	Martin Lamacchia:	pero esto pasa solo por que son clases aisladas?
+02:25:48	Luciano Diotallevi:	aaaaaaaahhhh, CHETO!
+02:25:49	Nataniel Kreimer:	codigo Pluscuamperfecto
+02:25:55	Matias Barbalase:	el extend flex gabi lo uso solo en las class en las que tengo display flex y eso
+02:25:56	Federico Bozzano:	cheto mal xD
+02:25:56	Matias Barbalase:	?
+02:26:04	Fernando Gimenez:	osea que si le pones el mismo border lo pondría en .galería, .productos{}
+02:26:04	Matias Barbalase:	pregunta muy bobi
+02:26:07	Federico Bozzano:	comparten propiedades las clases
+02:26:24	Joaquin Gourriet:	achica mucho el código Nice
+02:26:24	[Tutor] Manuel Sanchez:	Mati, solo en las clases que quieras aplicar las propiedades dentro del extend
+02:26:29	Matias Barbalase:	oka
+02:26:37	[Tutor] Manuel Sanchez:	Claro Fer
+02:26:42	Erick Osuna Saavedra:	Y si lo colocas sin Clases=
+02:26:43	Erick Osuna Saavedra:	??
+02:27:13	Erick Osuna Saavedra:	Sino con la Anidación... Ejemplo:  header lu li
+02:27:16	Erick Osuna Saavedra:	??
+02:27:20	[Tutor] Manuel Sanchez:	Es lo mismo, podes usar clases, id, tags, mientras le quiueras aplicar esas propiedades varios elementos
+02:27:33	Catriel Drago:	no importa  cuanto usemos el extend?
+02:27:35	Erick Osuna Saavedra:	Ok ok
+02:27:48	[Tutor] Manuel Sanchez:	es código reutilizable
+02:27:54	[Tutor] Matias Larsson:	mientras mas lo utilices mas estas optimizando tu ccodigo
+02:28:23	[Tutor] Manuel Sanchez:	hay una regla que se llama DRY (Donot Repeat Yourself) no repitas código, es engorroso
+02:29:03	Joaquin Gourriet:	si importas la variable podes utilizar todo lo que tenes dentro
+02:29:16	Catriel Drago:	profe y esto no traeria problemas en las media querys? que tienen que tener la misma sintaxis para que los pise ?
+02:29:44	[Tutor] Manuel Sanchez:	no tienen que tener la misma sintaxis Catriel
+02:29:54	Catriel Drago:	ah no?
+02:30:00	Catriel Drago:	eso me dijeron en coder ask
+02:30:11	Catriel Drago:	eso
+02:30:16	Catriel Drago:	se me confundio
+02:30:51	Federico Bozzano:	que lindo que es extend
+02:30:59	Catriel Drago:	emm seh
+02:31:21	Gonzalo Rojas:	CAT 🐱
+02:31:31	Catriel Drago:	xD
+02:31:33	Federico Bozzano:	claudico en clase 2 jajaj
+02:31:33	Gonzalo Rojas:	Que lindo adsads
+02:31:38	Edson Pareja:	abandonan todos ajaja
+02:31:47	Joaquin Gourriet:	en la clase 3 quedaba la mitad de gente 😅
+02:31:50	[Tutor] Manuel Sanchez:	Si es complejo
+02:31:59	[Tutor] Manuel Sanchez:	SASS y LESS son complejos
+02:32:35	Catriel Drago:	.........
+02:32:42	Joaquin Gourriet:	😶‍🌫️
+02:32:44	Martín Alba:	Me animo, pero me sacaron una muela hoy. Se va a entender poco
+02:32:46	Martín Alba:	Jajajaja
+02:32:48	Franco Escalante:	cuando andamos mal del corazón (?
+02:33:19	Catriel Drago:	pero tienen que ser las mismas propiedades
+02:34:17	Joaquin Gourriet:	Para las Card?
+02:34:25	Matias Barbalase:	miedo
+02:35:09	Edson Pareja:	se usaría mas para grid y flex
+02:35:10	Erick Osuna Saavedra:	width
+02:35:46	Matias Barbalase:	en español porfi
+02:35:49	Catriel Drago:	porfa
+02:35:54	Leonel Eguren:	imputs?
+02:35:54	Luciano Ippolito:	una plantilla para completar
+02:35:54	Federico Bozzano:	creo que entendí *-*
+02:36:32	Catriel Drago:	ohhh
+02:36:32	[Tutor] Manuel Sanchez:	no me acuerdo quien había preguntado, los mixins son lo mas parecido a una "función" de un lenguaje de programación
+02:36:41	Erick Osuna Saavedra:	yo
+02:36:48	Leonel Eguren:	es un esqueleto
+02:37:02	Leonel Eguren:	hay que rellenarlo
+02:37:17	[Tutor] Manuel Sanchez:	Es mucho mas amplio que extend para usar, porque ahora los valores pueden cambiar
+02:37:22	Catriel Drago:	no van center?
+02:38:23	Erick Osuna Saavedra:	flex, center, center
+02:38:40	Luciano Diotallevi:	zarpado
+02:38:43	[Tutor] Manuel Sanchez:	exacto Erick, pero no tienen por que ser esos valores si o si
+02:38:47	[Tutor] Manuel Sanchez:	se pueden cambiar
+02:38:57	Catriel Drago:	ohh
+02:38:58	Gabriel Frattesi:	Lo amo
+02:39:01	Sofia Piemontesi:	🤯
+02:39:03	Erick Osuna Saavedra:	Claro, era por poner algunos valores
+02:39:08	Fernando Gimenez:	que bueno que está
+02:39:09	Freddy Martinez Osteicoechea:	🤯
+02:39:09	Matias Barbalase:	piola
+02:39:23	Jarod Calderon:	siempre en el orden en que se declaró en el @mixin?
+02:39:30	[Tutor] Manuel Sanchez:	Si jarod
+02:39:34	[Tutor] Manuel Sanchez:	Muy importante
+02:39:36	Federico Bozzano:	Consulta. . el include acepta propiedades combinadas como por ej el "flex Flow" ?
+02:39:37	Jarod Calderon:	Gracias manuel
+02:39:56	Martín Alba:	Definitivamente es lo más parecido a una array
+02:40:01	Luciano Diotallevi:	entonces somos mixin team
+02:40:07	Federico Bozzano:	okidoki
+02:40:54	Fernando Gimenez:	para grid
+02:40:58	Freddy Martinez Osteicoechea:	esos mixin se pondrian ejemplo __main  para las section ??
+02:41:03	Federico Bozzano:	esto ahorra tantas líneas de codeo que siento que aumenta mi ki
+02:41:04	Fernando Gimenez:	seria lo mismo?
+02:41:11	Catriel Drago:	copado
+02:41:27	Edson Pareja:	puede dar un ejemplo con grid
+02:41:30	Freddy Martinez Osteicoechea:	osea donde iria
+02:41:32	Luis Pitre:	Ah no
+02:41:34	Luis Pitre:	no baje la mano
+02:41:39	Freddy Martinez Osteicoechea:	tipo en la carpeta __main
+02:42:34	Joaquin Gourriet:	se repiten siempre
+02:42:34	Erick Osuna Saavedra:	O cuando se coloca un background-img..
+02:42:46	Erick Osuna Saavedra:	Con sus diferentes atributos y valores
+02:42:49	Joaquin Gourriet:	cover no-repeat center
+02:42:54	Luis Pitre:	colum - gap
+02:43:04	Catriel Drago:	row
+02:43:11	Erick Osuna Saavedra:	gap
+02:43:28	Catriel Drago:	template
+02:43:37	Erick Osuna Saavedra:	grid-temple-columns
+02:44:29	Erick Osuna Saavedra:	Ya se está fundiendo el profe
+02:44:31	Erick Osuna Saavedra:	jeje
+02:44:35	Catriel Drago:	1fr
+02:45:02	Erick Osuna Saavedra:	jajajajaj
+02:45:04	Catriel Drago:	no lo vemos bailar
+02:45:04	Federico Bozzano:	🙌🏾.
+02:45:05	Erick Osuna Saavedra:	xD
+02:45:07	Sofia Piemontesi:	jajjajja
+02:45:11	Federico Bozzano:	/dance
+02:45:14	Gonzalo Rojas:	:Dancing:
+02:45:16	Fernando Gimenez:	Ahora con areas.. jajaja
+02:45:18	Franco Escalante:	🕺
+02:45:20	Freddy Martinez Osteicoechea:	y no lleva grid area ??
+02:45:38	Martin Lamacchia:	y si tener 3 propiedades podes llamar solo 2 o tenes que usar todas?
+02:45:41	Erick Osuna Saavedra:	Grid área si lo necesitas
+02:46:11	Gabriel Frattesi:	mapa
+02:46:11	Martin Lamacchia:	mapas
+02:46:12	Erick Osuna Saavedra:	map
+02:46:19	Martin Lamacchia:	gracias gabi
+02:46:21	Federico Bozzano:	oh
+02:46:27	Sofia Piemontesi:	siento que me reventaron las neuronas
+02:46:30	Catriel Drago:	la cosa es aplicarlo :P
+02:46:35	Gaston Jongewaard de Boer:	😆
+02:46:41	Matias Barbalase:	igual es medio quilombo aplicarlo jajaja
+02:46:44	Matias Barbalase:	para mi va
+02:46:54	conrado veloz:	🤣
+02:46:55	Catriel Drago:	:C
+02:46:56	Matias Barbalase:	NOOOOOOOOOOOO
+02:46:56	Franco Escalante:	🥁
+02:46:57	Gaston Jongewaard de Boer:	waaaa
+02:46:58	Joaquin Gourriet:	una de luimi
+02:47:03	Joaquin Gourriet:	luismi
+02:47:07	Matias Barbalase:	es obligatorio? boe
+02:47:08	Federico Bozzano:	JAJA porque luismi xD
+02:47:55	Erick Osuna Saavedra:	Se podría aplicar a las media queries
+02:48:13	Erick Osuna Saavedra:	Exacto
+02:48:23	Joaquin Gourriet:	👏
+02:48:33	Matias Barbalase:	gracias gabi jajaja
+02:48:44	Matias Barbalase:	claro
+02:48:51	Erick Osuna Saavedra:	while, for, etc
+02:48:52	Martín Alba:	Debe cumplir X condicion para ejecutarse
+02:49:11	Gonzalo Rojas:	Las condiciones condicionan 🤓
+02:49:19	Matias Barbalase:	jajajaja
+02:49:35	Jarod Calderon:	serían como los "if" en HTML?
+02:50:25	conrado veloz:	🤣
+02:50:53	Joaquin Gourriet:	?
+02:51:25	Rodrigo Nuñez:	en 10 seg me explota la cabeza , jaja
+02:51:29	Gonzalo Rojas:	js
+02:51:52	Jarod Calderon:	y el else if
+02:52:00	Sofia Piemontesi:	same rodri
+02:52:06	Martín Alba:	Y si no comuple ninguna Else if
+02:52:12	Martín Alba:	cumple*
+02:52:26	Gonzalo Rojas:	tmb el and
+02:52:54	Sofia Piemontesi:	siii
+02:52:55	Catriel Drago:	si
+02:53:35	Gonzalo Rojas:	N mode
+02:53:44	Jarod Calderon:	jajajajajajaja
+02:54:22	Catriel Drago:	bg
+02:56:14	Jarod Calderon:	ok
+02:57:27	Catriel Drago:	bien
+02:57:31	Catriel Drago:	entendi
+02:57:31	Erick Osuna Saavedra:	Si si
+02:57:33	Matias Barbalase:	corto
+02:57:34	Matias Barbalase:	error 404
+02:57:34	Rodrigo Nuñez:	no entendi gabi
+02:57:36	Freddy Martinez Osteicoechea:	si se entendio pero no como aplicarlo
+02:57:40	Fernando Gimenez:	lo podría aplicar con un checked?
+02:57:41	Santiago Amarilla:	pantalla azul
+02:57:44	Federico Bozzano:	claro cualquier valor que no sea negro se aplica el "ELSE"
+02:57:45	Gabriel Frattesi:	Jajaja si se entiende
+02:57:57	Lucas Rodriguez Alvarez:	entiendo pero no me parece relevante
+02:58:16	conrado veloz:	profe
+02:58:52	conrado veloz:	por que unas de las clases javacritp cae el dia de mi cumpleaños
+02:59:19	[Tutor] Matias Larsson:	Jarod habran escrito el script adentro del html mismo, pero un prompt es javascript
+02:59:40	Catriel Drago:	si
+03:00:33	conrado veloz:	tutor
+03:00:54	conrado veloz:	por que unas de las clases javacritp cae el dia de mi cumpleaños
+03:01:09	conrado veloz:	lo puedo cambiar
+03:01:12	Joaquin Gourriet:	tomate el dia conrad
+03:01:16	Jarod Calderon:	gracias por la info Matias
+03:01:18	[Tutor] Manuel Sanchez:	Ya lo hacemos feriado internacional a ese dia (?)
+03:01:27	Catriel Drago:	xD
+03:01:32	Sofia Piemontesi:	jajajaj
+03:01:33	[Tutor] Manuel Sanchez:	Los días de clase no se pueden cambiar
+03:01:33	Matias Barbalase:	JAJAJAJ
+03:01:43	Catriel Drago:	y yo aqui comiendome la clase de sass 2 en mi cumpleaños
+03:01:45	conrado veloz:	es el 23 de noviembre el dia de mi cumpleaños
+03:01:47	Federico Bozzano:	carta al presidente de coderhouse (?
+03:02:07	Franco Escalante:	pasemos las fechas de cumpleaños asi nos cambian los dias
+03:02:09	Federico Bozzano:	FC Catri
+03:02:13	Catriel Drago:	thx
+03:02:19	Federico Bozzano:	☺️
+03:02:25	Nataniel Kreimer:	Feliz cumple!
+03:02:36	Catriel Drago:	gracias :D
+03:02:48	Matias Barbalase:	feliz cumple catrielll
+03:02:56	Federico Bozzano:	nada como celebrar adquiriendo nuevos conocimientos! 👉🏾
+03:02:57	conrado veloz:	felicidades catriel
+03:02:57	Catriel Drago:	gracias gente
+03:02:57	Fernando Gimenez:	Feliz cumple Catriel. cuando seas grande vas a poder ser como Conra
+03:02:58	Matias Barbalase:	0 dudas
+03:02:59	Gabriel Frattesi:	Feliz cumple!
+03:02:59	Martín Alba:	Feliz cumple ¿Dónde vamos al asado?
+03:03:11	Gonzalo Rojas:	Feliz cumple CAT !!!
+03:03:12	Franco Escalante:	feliz cumpleaños
+03:03:15	Gonzalo Rojas:	<3
+03:03:15	Catriel Drago:	el sabado joda fuerte
+03:03:21	Federico Bozzano:	jaajja esa
+03:03:24	Andrea Barreiro:	feliz cumple!!!
+03:03:26	Gonzalo Rojas:	Ya pero pregunta cat
+03:03:26	Tomas Lopez Rivas:	feliz cumple catriel
+03:03:27	conrado veloz:	yo
+03:03:28	Erick Osuna Saavedra:	Feliz cumple Catriel!!!
+03:03:29	Franco Escalante:	cerramos aca y cortamos la torta
+03:03:29	conrado veloz:	profe
+03:03:29	Catriel Drago:	xD
+03:03:32	Matias Barbalase:	se sintió muy tranquila
+03:03:33	Gonzalo Rojas:	Te sentas en la torta o comes torta??
+03:03:34	Leonel Eguren:	mareado
+03:03:35	Gaston Jongewaard de Boer:	es una locura
+03:03:35	Sofia Piemontesi:	durisima
+03:03:35	Gaston Jongewaard de Boer:	xd
+03:03:36	Catriel Drago:	gracias :D <3
+03:03:36	Matias Barbalase:	pero hay q practicar
+03:03:40	Gabriel Frattesi:	Muy buena Gabi!
+03:03:42	Joaquin Gourriet:	atentos
+03:03:47	Nataniel Kreimer:	Hay que verlo implementado!
+03:03:47	Santiago Amarilla:	voy a ver el replay, VAR , todo
+03:03:51	Gabriel Frattesi:	Mucho para practicar
+03:03:51	Catriel Drago:	gonzalo esa pregunta es muy personal
+03:03:58	Gonzalo Rojas:	a
+03:04:03	Erick Osuna Saavedra:	?????
+03:04:07	Leonel Eguren:	cambiar tu cumple?
+03:04:10	Gabriel Frattesi:	Real?
+03:04:12	Catriel Drago:	xD
+03:04:12	Leonel Eguren:	eso con dios
+03:04:13	Erick Osuna Saavedra:	Total
+03:04:14	Erick Osuna Saavedra:	xD
+03:04:16	Rodrigo Nuñez:	ahhh era posta jajajaj
+03:04:20	Joaquin Gourriet:	cambia tu cumple
+03:04:20	Fernando Gimenez:	PAro nacional
+03:04:35	Santiago Amarilla:	en serio se puede?
+03:04:35	Leonel Eguren:	tiene que ser feriado
+03:04:37	Joaquin Gourriet:	cuarentena
+03:04:37	Nataniel Kreimer:	Ese dia es ANO NUEVO!
+03:04:41	Catriel Drago:	o podes volver en el futuro y  nacer un dia despues o antes
+03:04:42	Freddy Martinez Osteicoechea:	puente largo
+03:04:45	Luciano Ippolito:	me lleva la cachetada
+03:04:48	Fernando Gimenez:	Joda en lo de conra. nadie cursa
+03:04:52	Leonel Eguren:	cambia el calendario solar
+03:04:56	Franco Escalante:	invita Conra
+03:05:01	Joaquin Gourriet:	voy al baño gente
+03:05:04	Federico Bozzano:	basta plz 🤣
+03:05:05	Federico Gomez Beret:	Conrad flashea que se contrató un profe particular
+03:05:09	Rodrigo Nuñez:	es muuuy fuertee
+03:05:11	Gonzalo Rojas:	xddd
+03:05:20	Franco Escalante:	✋ puedo ir al baño?
+03:05:21	Catriel Drago:	xD
+03:05:23	Gonzalo Rojas:	Decirle a tus viejos que hagan eso un dia despues
+03:05:26	Luciano Ippolito:	Yo tengo un asado el 28
+03:05:31	Leonel Eguren:	sale un tft
+03:05:34	Catriel Drago:	profe entonces me daba el presente de hoy ?
+03:05:40	Catriel Drago:	:C
+03:05:40	Erick Osuna Saavedra:	Jajajajaja
+03:05:43	Luciano Diotallevi:	LEonel, TFT, habla al wsp
+03:05:51	Leonel Eguren:	eaaa
+03:05:52	Gonzalo Rojas:	Ya pero
+03:05:56	Gabriel Frattesi:	Catriel no pediste el día Coder
+03:05:59	Gonzalo Rojas:	Alguien L4D2 >W>?
+03:06:11	Catriel Drago:	como dormi
+03:06:18	Luciano Diotallevi:	if, else me suena a Excel
+03:06:47	[Tutor] Manuel Sanchez:	excel es lo mas parecido a un lenguaje de programacion
+03:07:11	conrado veloz:	Luciano invita a la parrillada
+03:07:12	Fernando Gimenez:	if (cumple invita conra) else (clases de JS)
+03:07:21	Federico Bozzano:	xD
+03:07:23	Joaquin Gourriet:	profe se gano el cielo
+03:07:24	conrado veloz:	invito al profe
+03:07:33	conrado veloz:	a orlando
+03:07:34	Freddy Martinez Osteicoechea:	tenemos asaito
+03:07:35	Erick Osuna Saavedra:	MAYAMI
+03:07:36	Gabriel Frattesi:	A la conrafest
+03:07:38	Matias Barbalase:	a dormir profe
+03:07:43	Catriel Drago:	tenemos asadito en disney
+03:07:45	Joaquin Gourriet:	a la afterconrad
+03:07:50	conrado veloz:	me voy a orlando
+03:07:51	Matias Barbalase:	sigo esperando la nota
+03:07:52	Matias Barbalase:	jajajaja
+03:07:54	Fernando Gimenez:	MEssi
+03:08:01	DIANA GUARIN:	gracias profe
+03:08:05	Joaquin Gourriet:	SIGO ESPERANDO EL GITHUB DE CONRAD
+03:08:09	Gonzalo Rojas:	Profe de ahora para adelante que habrá en las siguientes clases o.o?
+03:08:11	Erick Osuna Saavedra:	jajajajaja
+03:08:11	Fernando Gimenez:	y yo sacándome fotos en kinderland
+03:08:13	Fernando Gimenez:	lpm
+03:08:14	Erick Osuna Saavedra:	bye
+03:08:16	DIANA GUARIN:	chaos gracias
+03:08:16	Matias Barbalase:	gabi las clases son chills?
+03:08:16	Federico Bozzano:	jaja Gracias Gabi y a los tutores!, arrasado pero iluminado me voy
+03:08:17	Matias Barbalase:	q vienen
+03:08:18	Gabriel Frattesi:	Gracias Gabi!
+03:08:23	Gabriel Frattesi:	Excelente clase
+03:08:24	Franco Escalante:	buenas noches a todos
+03:08:26	Leonel Eguren:	chau profe! hasta el lunes!! buen finde
+03:08:26	Erick Osuna Saavedra:	Wiiii
+03:08:27	Gaston Jongewaard de Boer:	jojoo
+03:08:28	Matias Barbalase:	"llora"
+03:08:29	Catriel Drago:	gracias profe
+03:08:29	Joaquin Gourriet:	Pasa el GITHUB Conrad
+03:08:31	Franco Escalante:	buen finde
+03:08:31	Erick Osuna Saavedra:	Felicidades a todos!
+03:08:32	Gonzalo Rojas:	a mimir
+03:08:33	Sofia Piemontesi:	jajjaja
+03:08:35	Matias Barbalase:	nos vemos gabi
+03:08:37	Fernando Gimenez:	chau
+03:08:37	Federico Bozzano:	buenas noches a todos!
+03:08:38	Andrea Barreiro:	chau chau
+03:08:38	conrado veloz:	asta mañana
+03:08:38	Luciano Diotallevi:	Buenas noches a todoooos
+03:08:39	Erick Osuna Saavedra:	Chao
+03:08:39	Gabriel Frattesi:	Buen finde!
+03:08:39	Javier Herrero:	Buena clase, a practicarrr
+03:08:40	Catriel Drago:	aios
+03:08:40	Gonzalo Rojas:	Chauchis profe ^^
+03:08:41	Nataniel Kreimer:	bye
+03:08:43	Santiago Amarilla:	bye gabii
+03:08:43	Martín Alba:	if (class == birthday){ cambiar fecha }Else{}
+03:08:43	Fernando Gimenez:	se vemos

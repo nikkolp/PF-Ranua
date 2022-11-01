@@ -1,0 +1,15 @@
+@mixin botonContacto ($ancho){
+  border: 2px solid $colorTitulos;
+  border-radius: 20px;
+  padding: 5px 20px 5px 20px;
+  margin: 0 30px 20px 0;
+  box-shadow: 2px 2px 10px -1px;
+  width: $ancho;
+  text-align: center;
+  display: inline;
+  background-color: $colorLinks;
+  font-size: 1.1rem;
+  a {
+    color: $colorTitulos;
+  }
+}

@@ -1,0 +1,153 @@
+.barraDeContenido {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: flex-end;
+  background-image: url(../assets/images/cabecera-index.jpg);
+  background-size: cover;
+  background-position-y: 360px;
+  height: 350px;
+  width: 100%;
+  padding-right: 50px;
+  h1 {
+    font-size: 2.5rem;
+    color: white;
+    margin: 40px;
+    text-shadow: 2px 0px 0px black, 0px 1px 0px black, -1px 0px 0px black,
+      0px -1px 0px black;
+  }
+  p {
+    width: 50%;
+    padding: 20px;
+    text-align: justify;
+    position: relative;
+    top: -30px;
+  }
+}
+
+.botonContacto {
+  @include botonContacto(180px);
+  &:hover{
+    transform: scale(1.2);
+    transition: .4s;
+  }
+}
+
+.tarjetaPadre {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 70px 0 70px 0;
+}
+
+.tarjetaHija {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 25%;
+  text-align: center;
+  padding: 30px;
+  height: 600px;
+  i {
+    font-size: 2.5rem;
+    color: $colorTitulos;
+  }
+  p {
+    text-align: justify;
+  }
+  &:hover{
+    transform: scale(1.2);
+  }
+}
+
+.mainIndex {
+  @extend %estiloCentrado;
+  img {
+    width: 70%;
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 1000px) {
+  /* Página principal */
+
+  header {
+    img {
+      width: 15vw;
+    }
+  }
+
+  li {
+    margin: 10px;
+    font-size: 1rem;
+  }
+
+  .barraDeContenido {
+    h1 {
+      font-size: 5vw;
+    }
+    p {
+      padding: 10px;
+      font-size: 0.7rem;
+      width: 40%;
+      line-height: 12px;
+      background-color: rgba(255, 255, 255, 0.5);
+    }
+  }
+
+  .botonContacto {
+    display: none;
+  }
+
+  .barraDeContenido {
+    height: 360px;
+  }
+
+  .tarjetaHija {
+    height: 400px;
+    padding: 2%;
+    p {
+      font-size: 0.7rem;
+    }
+    i {
+      font-size: 1.6rem;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  /* Inicio */
+
+  .barraDeContenido {
+    padding-right: 0px;
+    background-size: cover;
+    p {
+      display: none;
+    }
+  }
+
+  .tarjetaPadre {
+    flex-direction: column;
+    padding: 40px;
+    margin: 0px;
+  }
+
+  .tarjetaHija {
+    width: 100%;
+    height: auto;
+    margin: 20px 0px 20px 0px;
+    padding: 15px;
+    i{
+      margin: 20px auto;
+    }
+    h2{
+      margin: 10px auto 30px auto;
+    }
+  }
+
+  .mainIndex {
+    img {
+      width: 50%;
+    }
+  }
+
+}

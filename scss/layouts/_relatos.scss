@@ -1,0 +1,34 @@
+.grilla {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 350px 350px;
+  align-items: center;
+  justify-items: stretch;
+  height: auto;
+  margin-bottom: 80px;
+}
+
+.hijo__grilla {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  h3 {
+    margin: 30px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .grilla {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  iframe {
+    width: 90%;
+  }
+}
+
+@media (max-width: 660px) {
+  .grilla {
+    grid-template-columns: 100%;
+  }
+}

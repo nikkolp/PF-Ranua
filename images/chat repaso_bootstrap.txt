@@ -1,0 +1,166 @@
+01:29:40	Erick Osuna Saavedra:	Git mal...
+01:29:53	Nataniel Kreimer:	Saludossss
+01:30:03	Erick Osuna Saavedra:	Hola!!! Buenas noches a todos!
+01:30:14	Felipe Murga:	no me digas que esta mal...
+01:30:24	Federico Bozzano:	noooo FELI nooo
+01:30:28	Federico Bozzano:	jaja xD
+01:30:33	Felipe Murga:	NOOOOO
+01:30:34	Federico Bozzano:	buenas noches a todos gente beia
+01:30:37	Felipe Murga:	y ahora
+01:30:47	Federico Bozzano:	fusiona todos en uno u.u
+01:31:12	Felipe Murga:	todo mal Edson...
+01:31:15	Felipe Murga:	jajaja
+01:31:34	Joaquin Gourriet:	Profe, consulta usted en un after reemplazo header main y footer por div con esas class. eso se puede hacer para aplicar grid?
+01:31:38	Felipe Murga:	oka oka
+01:32:06	Martin Alba:	Yo tengo General Header, Nav y footer. Todos con el mismo diseño y varia el contenido según el html
+01:32:27	Erick Osuna Saavedra:	Incluiste las etiquetas dentro de divs
+01:32:51	Felipe Murga:	encontré unos auris, puedo probar el audio
+01:32:52	Felipe Murga:	?
+01:33:00	Erick Osuna Saavedra:	Exacto
+01:34:03	Federico Bozzano:	ni le apliquen propiedades al main .. pq puede explotar todos y les de un panic attack como a mi jajaj
+01:34:52	Felipe Murga:	me voy deprimido a arreglar mis ccs...
+01:35:30	Felipe Murga:	oka oka
+01:35:39	Felipe Murga:	si llego vuelvo!
+01:36:51	Matias Barbalase:	olis
+01:37:03	[Profe] Gabriel López:	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+01:37:17	Gabriel Frattesi:	antes de cerrar el body
+01:37:18	Erick Osuna Saavedra:	Debajo del body
+01:37:21	Erick Osuna Saavedra:	al final
+01:39:10	Norman Argueta:	el "aside "que era?
+01:39:22	Fernando Gimenez:	publicidad
+01:39:30	Norman Argueta:	grax
+01:45:06	Norman Argueta:	todo ok
+01:45:08	Matias Barbalase:	tranqui
+01:45:13	Luciano Ippolito:	podes poner el html en media pantalla?
+01:45:33	Luciano Ippolito:	no, el codigo solamente
+01:45:40	Nicolas Ranua:	ayer Soñé con bootstrap 🖤
+01:45:47	Luciano Ippolito:	las pestañas en visual studio
+01:45:51	Luciano Ippolito:	Gracias!
+01:46:34	Luciano Diotallevi:	extraño Flex, jajaja
+01:47:40	Martin Lamacchia:	Gabi puede ser que boostrap te desacomode un  poco la pagina? solo puse en el html los link de CSS y JS. y se me rompieron las tarjetas que había creado
+01:48:04	Andrea Barreiro:	container
+01:48:17	Jonathan Medina:	Me pasa lo mismo Martin
+01:48:18	Ivan Brizuela:	a mi también me rompe varias cosas el linkeo de bootstrap
+01:49:04	Martin Lamacchia:	haaa.. ok perfecto muchas gracias
+01:51:00	Martin Lamacchia:	header
+01:53:10	Federico Bozzano:	aside col
+01:53:18	Federico Bozzano:	sry. xD
+01:53:28	Andrea Barreiro:	main??
+01:53:28	Martin Lamacchia:	main?
+01:53:33	Luciano Ippolito:	al main
+01:54:42	Andrea Barreiro:	section
+01:57:58	Martin Lamacchia:	no
+01:58:00	Federico Bozzano:	que bien este repaso gabito
+01:58:05	Federico Bozzano:	me hace bien
+01:58:06	Matias Barbalase:	es lunes gabi(?
+01:58:32	Freddy Martinez Osteicoechea:	acabo de llegar del laburo t.t
+01:59:14	Federico Bozzano:	pero
+01:59:17	Federico Bozzano:	pq alineo l aimg tambien
+01:59:19	Federico Bozzano:	no era solo el texto?
+01:59:32	Federico Bozzano:	jajaj
+01:59:51	Federico Bozzano:	la podemos "desalinear " a la img con css después no?
+01:59:56	Federico Bozzano:	cool
+02:00:30	Andrea Barreiro:	8
+02:01:07	Federico Bozzano:	Profe. Se puede elegir cual de esas 9 queremos que ocupe?
+02:01:29	Luciano Diotallevi:	no era con un punto?
+02:01:33	Andrea Barreiro:	o sea que este al reves por ejemplo
+02:01:34	Federico Bozzano:	dame un seg
+02:01:36	Federico Bozzano:	que conecto mic
+02:01:48	Luciano Diotallevi:	cierto
+02:02:13	Federico Bozzano:	vale tio
+02:05:41	Federico Bozzano:	jaja
+02:05:46	Gabriel Frattesi:	Si se entiende
+02:05:52	Gabriel Frattesi:	Parece tan fácil asi jajaja
+02:06:39	Federico Bozzano:	responsive en 20segs xD
+02:07:10	Luciano Diotallevi:	bellisimo
+02:07:11	Erick Osuna Saavedra:	Sip
+02:07:13	Erick Osuna Saavedra:	Muy bien
+02:07:14	Federico Bozzano:	sisi facheriño
+02:08:06	Erick Osuna Saavedra:	Carruseles de texto?
+02:11:04	[Profe] Gabriel López:	https://getbootstrap.com/docs/5.0/components/navs-tabs/
+02:11:42	Erick Osuna Saavedra:	https://www.thetallisscholars.co.uk/
+02:12:42	Federico Bozzano:	jajaja yo también tengo una de esas jajaj
+02:12:49	[Profe] Gabriel López:	https://es.padlet.com/gabaletru/herramientas
+02:13:02	Federico Bozzano:	cual es la palabra mágica?
+02:13:11	Federico Bozzano:	me la pregunta para entrar
+02:13:44	Federico Bozzano:	teamflex ? XD
+02:13:51	Erick Osuna Saavedra:	https://es.padlet.com/
+02:14:36	Federico Bozzano:	nono
+02:14:38	Federico Bozzano:	yo no toque jeje
+02:14:43	Federico Bozzano:	quería ir al baño (?
+02:14:52	Freddy Martinez Osteicoechea:	jajajajajaaja
+02:15:01	Matias Barbalase:	gabi habias dicho que el link de Bootstrap tenia que estar debajo del css no?
+02:15:24	Erick Osuna Saavedra:	Debajo del HTML
+02:15:32	Matias Barbalase:	eso
+02:15:33	Matias Barbalase:	jajaj gracias
+02:15:34	edson pareja:	si antes de el cierre de body
+02:15:36	Federico Bozzano:	init ::D
+02:15:36	Matias Barbalase:	git init  no?
+02:15:39	Erick Osuna Saavedra:	Antes de la etiqueta de cierre del body
+02:15:47	Matias Barbalase:	una carpeta oculta
+02:15:50	Federico Bozzano:	carpeta local oculta
+02:15:53	Matias Barbalase:	el git
+02:16:23	Matias Barbalase:	status
+02:16:31	Matias Barbalase:	git add .
+02:16:44	Matias Barbalase:	git status devuelta
+02:16:54	Matias Barbalase:	git commit no?
+02:17:01	Matias Barbalase:	a full andamo
+02:18:58	Matias Barbalase:	gabi si yo realizo cambios pongo otro commit no?
+02:19:08	Matias Barbalase:	y después hago lo del push para que se guarde en el GitHub?
+02:19:48	Matias Barbalase:	dale porfi
+02:20:35	Matias Barbalase:	commit
+02:20:40	Gabriel Frattesi:	status
+02:20:49	Matias Barbalase:	mala mia
+02:20:51	Fernando Gimenez:	git commit
+02:20:58	Gabriel Frattesi:	status
+02:21:08	Gabriel Frattesi:	add .
+02:21:17	Matias Barbalase:	commit
+02:21:18	Gabriel Frattesi:	commit
+02:21:52	Gabriel Frattesi:	push
+02:21:54	Matias Barbalase:	con push
+02:21:55	Erick Osuna Saavedra:	push
+02:22:09	Matias Barbalase:	ah que joya
+02:22:29	Matias Barbalase:	buenisimo
+02:22:31	Matias Barbalase:	nada
+02:23:26	Matias Barbalase:	apa
+02:23:48	Federico Bozzano:	no me jodas
+02:23:48	Federico Bozzano:	jajaj
+02:24:00	Luciano Diotallevi:	como cuando Truman llega al final (?
+02:24:02	edson pareja:	🤯
+02:24:02	Francisco Maldonado:	OLV
+02:25:13	Freddy Martinez Osteicoechea:	en la raiz
+02:26:44	Luciano Diotallevi:	genial
+02:26:46	[Profe] Gabriel López:	https://gabaletru.github.io/git-bootstrap/
+02:26:49	Federico Bozzano:	ea
+02:27:38	Erick Osuna Saavedra:	Excelente!
+02:27:50	Freddy Martinez Osteicoechea:	no ocultes la groseria xd
+02:29:12	Martin Lamacchia:	Gabi podras repetir por favor cual es el link que hay que pasar para la segunda entrega
+02:29:53	[Profe] Gabriel López:	https://github.com/gabaletru/git-bootstrap.git
+02:30:02	Martin Lamacchia:	muchas gracias
+02:30:07	edson pareja:	solo ese link tenemos que entregar?
+02:30:29	Fernando Gimenez:	perdon
+02:30:42	Fernando Gimenez:	donde copiamos el link para entregar?
+02:30:48	Fernando Gimenez:	donde pegamos*
+02:31:23	Erick Osuna Saavedra:	En comentarios?
+02:35:20	Freddy Martinez Osteicoechea:	profe ese z- index 1 para que lo uso? es para superponer pero que function  cumple ?
+02:35:20	Erick Osuna Saavedra:	xD
+02:35:21	Andrea Barreiro:	bravooo
+02:35:21	Federico Bozzano:	ea
+02:35:22	Erick Osuna Saavedra:	Wiiiii
+02:35:24	Fernando Gimenez:	jaja
+02:35:33	Martin Lamacchia:	si
+02:35:33	Fernando Gimenez:	si
+02:35:34	Erick Osuna Saavedra:	Excelente clase
+02:35:35	Andrea Barreiro:	si
+02:35:35	Freddy Martinez Osteicoechea:	profe ese z- index 1 para que lo uso? es para superponer pero que function  cumple en su pag ?
+02:35:37	Erick Osuna Saavedra:	Si si, grabada
+02:35:43	Andrea Barreiro:	bye
+02:35:53	edson pareja:	bostrap entra gabi?
+02:35:54	Erick Osuna Saavedra:	Bye!!!!
+02:35:57	Federico Bozzano:	gracias por este repaso
+02:36:05	Fernando Gimenez:	gracias
+02:36:11	Federico Bozzano:	buenas noches titano
+02:36:12	edson pareja:	ah dale
+02:36:14	Freddy Martinez Osteicoechea:	profe ese z- index 1 para que lo uso? es para superponer pero que function  cumple ?
+02:36:15	Erick Osuna Saavedra:	Buenas ncohes!
+02:36:15	edson pareja:	gracias

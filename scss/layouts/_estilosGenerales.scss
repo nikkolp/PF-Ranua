@@ -1,0 +1,81 @@
+input,
+label,
+textarea {
+  display: block;
+  width: 100%;
+  height: 40px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+#comentarios__adicionales {
+  height: 200px;
+}
+
+.btm {
+  @include botonContacto (100px);
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  color: $colorTitulos;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+  margin: 40px;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+a {
+  text-decoration: none;
+  color: $colorLinks;
+  &:hover{
+    color: $colorTitulos;
+  }
+}
+
+li {
+  list-style: none;
+  margin: 20px;
+  font-size: 1.2rem;
+}
+
+iframe {
+  width: 70%;
+  height: 280px;
+}
+
+img {
+  width: 100%;
+}
+
+.cuadroSombreado {
+  box-shadow: 5px 5px 15px;
+  border: 2px solid $colorTitulos;
+  border-radius: 15px;
+}
+
+main{
+  min-height: 65vh;
+}
+
+@media (max-width: 1000px) {
+  /* Estilos generales */
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.3rem;
+  }
+}
+

@@ -1,0 +1,12 @@
+$coloresDeRedes: (
+    fa-linkedin: $colorLinkedin,
+    fa-instagram: $colorInstagram,
+    fa-twitter: $colorTwitter,
+    fa-facebook: $colorFacebook,
+);
+
+@each $red, $color in $coloresDeRedes {
+    .#{$red}{
+        color: $color;
+    }
+}

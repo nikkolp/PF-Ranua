@@ -1,0 +1,25 @@
+header {
+  @extend %estiloFlex;
+  min-height: 20vh;
+  background: rgb(255, 255, 255);
+  background: linear-gradient(180deg, rgb(218, 218, 218) 0%, rgb(206, 206, 206) 50%, rgb(184, 184, 184) 100%);
+  img {
+    width: 20vh;
+    margin-left: 20px;
+  }
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+.linkActivo {
+  font-weight: bold;
+  border: 2px solid $colorLinks;
+  background-color: $colorLinks;
+  color: $colorHeader;
+  border-radius: 20px;
+  padding: 5px 40px 5px 40px;
+}
