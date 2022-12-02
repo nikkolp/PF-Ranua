@@ -4,6 +4,7 @@
     margin: 30px;
 
 }
+
 header,
 .quienesSomos__contenedor,
 .misionHijo {
@@ -246,7 +247,6 @@ main {
     align-items: flex-end;
     background-image: url(../images/te_en_altura-1.jpg);
     background-size: cover;
-    background-position-y: 800px;
     height: 600px;
     width: 100%;
     padding-right: 50px;
@@ -347,6 +347,7 @@ main {
         width: 40%;
         line-height: 12px;
         background-color: rgba(255, 255, 255, 0.5);
+        background-repeat: no-repeat;
     }
 
     .botonContacto {
