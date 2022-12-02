@@ -583,7 +583,7 @@ form {
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 350px 350px;
     align-items: center;
-    justify-items: stretch;
+    justify-items: center;
     height: auto;
     margin-bottom: 80px;
 }
